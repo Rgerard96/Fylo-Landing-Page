@@ -548,7 +548,7 @@ input::placeholder{
   
   #cta-input button{
     width: 100%;
-    font-size: .5rem;
+    font-size: 1.3rem;
   }
   #footer-menu{
     display: block;
@@ -560,7 +560,7 @@ input::placeholder{
   }
   
   .footer-item{
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
   }
   
   .footer-logo-icon{
@@ -576,7 +576,7 @@ input::placeholder{
   }
   
   .social-icons{
-    font-size: 3rem;
+    font-size: 3.5rem;
     margin-left: 2rem;
   }
   #copyright p{
