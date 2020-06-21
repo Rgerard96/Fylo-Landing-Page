@@ -548,7 +548,7 @@ input::placeholder{
   
   #cta-input button{
     width: 100%;
-    font-size: 1.2;
+    font-size: .5rem;
   }
   #footer-menu{
     display: block;
